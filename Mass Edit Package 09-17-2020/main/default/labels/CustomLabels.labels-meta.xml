@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Inactive_Order_Product</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Inactive Order Product</shortDescription>
+        <value>Inactive Order Products cannot be cloned</value>
+    </labels>
+    <labels>
+        <fullName>Invalid_Order_Product_Frequency</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Order product frequency is one time during order product clone</shortDescription>
+        <value>The order product frequency is invalid</value>
+    </labels>
+    <labels>
+        <fullName>Order_Product_Not_Service</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Order Product Not Service</shortDescription>
+        <value>The order product is not of the type Service</value>
+    </labels>
+    <labels>
+        <fullName>Parent_Account_Mismatch</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Parent Account Mismatch</shortDescription>
+        <value>Source and Target order have different Parent Accounts</value>
+    </labels>
+</CustomLabels>
